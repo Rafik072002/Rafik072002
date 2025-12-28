@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently working in IBM<br>I'm looking to collaborate on better opportunity<br>I'm looking for help with good learners <br>I'm currently learning nodeJs<br>Ask me about a joke<br>Fun fact you will never loose it <br> 
+I'm Currently working in IBM India<br>I'm looking to collaborate on better opportunity<br>I'm looking for help with good learners <br>I'm currently learning nodeJs<br>Ask me about a joke<br>Fun fact you will never loose it <br> 
 
 
 ## 🌐 Socials:
