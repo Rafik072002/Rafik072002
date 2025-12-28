@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Working at IBM India<br>🤝 Open to collaborations and exciting opportunities<br>🚀 Love connecting with passionate learners<br🌱 Currently learning Node.js<br>😄 Ask me for a joke anytime<br>⚡ Fun fact: Knowledge is something you never lose <br> 
+💼 Working at IBM India<br>🤝 Open to collaborations and exciting opportunities<br>🚀 Love connecting with passionate learners<br>🌱 Currently learning Node.js<br>😄 Ask me for a joke anytime<br>⚡ Fun fact: Knowledge is something you never lose <br> 
 
 
 ## 🌐 Socials:
